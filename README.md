@@ -1,5 +1,5 @@
  # Anivartak Jain
-[![Facebook]([https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQX7YbHbQdQ_4dI95cvtVfGvglWdYRc8YkohQ))]
+[![](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQX7YbHbQdQ_4dI95cvtVfGvglWdYRc8YkohQ)]
 
 
 
