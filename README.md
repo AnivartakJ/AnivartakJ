@@ -1,4 +1,5 @@
-                             
+                             ![image](https://github.com/AnivartakJ/AnivartakJ/assets/126934403/de9bfe1a-842a-4683-8f9a-6966881eda06)
+
   
 💫 About Me:<br>
 Currently working on 💪 : Developing a web-based project management tool using React and Node.js, and an app-based platform for online language learning.<br>Looking to collaborate on 🤝: Open-source projects related to machine learning and data analysis, and connect with established managers, CEOs, and foreign engineers.<br>Looking to help with 🧑‍💻: Mentoring junior developers and contributing to initiatives promoting diversity in tech.<br>Currently learning 💻: Cloud computing and distributed systems to optimize performance and scalability in web applications.<br>Ask me about 💬: My experience interviewing and collaborating with established managers, CEOs, and foreign engineers to develop successful software projects.<br>Fun fact 🤩: I enjoy exploring new cultures and have traveled to over ten different countries to learn about their unique customs and technologies. 
