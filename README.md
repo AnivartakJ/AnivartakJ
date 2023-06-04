@@ -1,4 +1,5 @@
-                             ![image](https://github.com/AnivartakJ/AnivartakJ/assets/126934403/de9bfe1a-842a-4683-8f9a-6966881eda06)
+                     ![image](https://github.com/AnivartakJ/AnivartakJ/assets/126934403/6984a457-f060-4651-a6d3-3320b2e39d35)
+
 
   
 💫 About Me:<br>
